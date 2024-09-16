@@ -1,4 +1,5 @@
-she/her
+- she/her
+- high school comp sci student
 
 <!---
 juliejiang0/juliejiang0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
